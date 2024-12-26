@@ -30,7 +30,7 @@ A command-line tool written in COBOL to quickly scaffold new programming project
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/project-creator.git
+   git clone https://github.com/alexander-graf/project-creator.git
    cd project-creator
    ```
 
